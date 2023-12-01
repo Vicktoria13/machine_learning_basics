@@ -28,3 +28,7 @@ rebuilt from PCA:
 With kernel:
 
 ![Alt text](images/frontieres.png)
+
+## Notebook3 : CNN and Variational Autoencoder
+
+![Alt text](images/regenerate.png)
