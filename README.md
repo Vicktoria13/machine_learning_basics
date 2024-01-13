@@ -31,4 +31,9 @@ With kernel:
 
 ## Notebook3 : CNN and Variational Autoencoder
 
+### Encoder Decoder Architecture
+![Alt text](images/noisy.png)
+
+### Variational Encoder Decoder Architecture
+
 ![Alt text](images/regenerate.png)
